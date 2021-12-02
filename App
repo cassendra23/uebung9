@@ -32,7 +32,7 @@ public class App extends Application {
     	Button neu = new Button("NEU");
     	Button ok = new Button("OK");
     	
-    	neu.setOnAction(e->{
+    	neu.setOnAction((event)->{
     		return;
     	});
     	
